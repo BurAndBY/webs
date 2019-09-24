@@ -1,3 +1,0 @@
-# webs
-web
-Oops../
